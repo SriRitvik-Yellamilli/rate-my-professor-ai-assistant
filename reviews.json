@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alice Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent professor, very clear in explanations and always willing to help."
+      },
+      {
+        "professor": "Dr. John Doe",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great teacher, but sometimes hard to follow during lectures."
+      },
+      {
+        "professor": "Dr. Maria Garcia",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Knowledgeable but not very engaging in class."
+      },
+      {
+        "professor": "Dr. Robert Lee",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Makes difficult concepts easy to understand with real-world examples."
+      },
+      {
+        "professor": "Dr. Emily Zhang",
+        "subject": "Biology",
+        "stars": 2,
+        "review": "Course content was interesting, but the professor was disorganized."
+      },
+      {
+        "professor": "Dr. James Nguyen",
+        "subject": "History",
+        "stars": 4,
+        "review": "Interesting lectures, but grading was strict."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Great at explaining economic models and theories. Highly recommend!"
+      },
+      {
+        "professor": "Dr. Mark Wilson",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Not bad, but class can get a bit dull at times."
+      },
+      {
+        "professor": "Dr. Sarah Thompson",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Really makes you think about life and existence, highly insightful!"
+      },
+      {
+        "professor": "Dr. Kevin Rodriguez",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Good lectures but too much homework for a single course."
+      },
+      {
+        "professor": "Dr. Christine Brown",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Very engaging and always open to debate in class discussions."
+      },
+      {
+        "professor": "Dr. David Kim",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "The course material was interesting, but lectures felt monotonous."
+      },
+      {
+        "professor": "Dr. Jennifer Taylor",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Challenging course, but very rewarding if you put in the effort."
+      },
+      {
+        "professor": "Dr. William Carter",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "One of the best professors I’ve ever had, made complex theories accessible."
+      },
+      {
+        "professor": "Dr. Angela Martinez",
+        "subject": "Literature",
+        "stars": 2,
+        "review": "Hard to follow her lectures, and assignments were unclear."
+      },
+      {
+        "professor": "Dr. Anthony Davis",
+        "subject": "Business",
+        "stars": 4,
+        "review": "Well-organized and helpful in understanding business concepts."
+      },
+      {
+        "professor": "Dr. Jessica Lee",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate about the subject and makes every lecture exciting."
+      },
+      {
+        "professor": "Dr. Richard Evans",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Not the best communicator, but knowledgeable in the field."
+      },
+      {
+        "professor": "Dr. Laura Green",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Labs were fun, but the exams were too difficult."
+      },
+      {
+        "professor": "Dr. Michael White",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Amazing professor, extremely knowledgeable and engaging."
+      }
+    ]
+  }
+  
